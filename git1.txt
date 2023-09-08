@@ -1,2 +1,3 @@
-l
-learning git and github
+
+learning git and github 
+also learning js
